@@ -21,7 +21,7 @@ const MentorshipLandingPage = () => {
     >
       <div className="container mx-auto flex justify-between items-center mr-60">
         <Link to="/" className="text-white text-2xl font-bold flex items-center ml-20 gap-2">
-          <span className="text-yellow-300">Shiksha</span>Soladu.ai
+          <span className="text-yellow-300">Learning</span>AI
         </Link>
         
         <ul className="hidden md:flex space-x-6">
