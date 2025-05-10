@@ -93,7 +93,7 @@ All curated to provide a smooth and structured learning experience.
 
 > _"Ideas? Feedback? Let’s learn and grow together!"_
 
-- [GitHub Issues](https://github.com/santhosh200429/learning-ai-for-all/issues)
+- [GitHub Issues](https://github.com/Santhosh200429/learning-ai/issues)
 
 ---
 
