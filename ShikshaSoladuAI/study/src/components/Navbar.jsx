@@ -7,7 +7,7 @@ const Navbar = () => {
         {/* Brand Logo or Name */}
         <div>
           <Link to="/" className="text-white font-bold text-xl">
-            ShikshaSoladu
+            Learning 
           </Link>
         </div>
 
